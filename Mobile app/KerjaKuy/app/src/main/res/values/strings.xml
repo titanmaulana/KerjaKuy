@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">KerjaKuy</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="masukan_password">Masukan Password</string>
+    <string name="masukan_email">Masukan Email</string>
+    <string name="lupa_password">Lupa Password?</string>
+    <string name="belum_punya_akun">Belum punya akun?</string>
+    <string name="daftar">Daftar</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="masukan_nama_lengkap">Masukan Nama Lengkap</string>
+    <string name="sudah_punya_akun">Sudah punya akun?</string>
+    <string name="masuk">Masuk</string>
+    <string name="hi_job_seeker">Hi, Job Seeker!</string>
+    <string name="berdasarkan_bidang">Berdasarkan Bidang</string>
+    <string name="berdasarkan_pengalaman">Berdasarkan Pengalaman</string>
+    <string name="it">IT</string>
+    <string name="design">Design</string>
+    <string name="pertanian">Pertanian</string>
+    <string name="middle_level">Middle Level</string>
+    <string name="high_level">High Level</string>
+    <string name="lainnya">Lainnya</string>
+</resources>
