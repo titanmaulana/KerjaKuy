@@ -1,1 +1,1 @@
-Folder ini berisi code untuk melakukan web scraping di website, seperti Linedin
+Folder ini berisi code untuk melakukan web scraping di website, seperti LinkedIn
